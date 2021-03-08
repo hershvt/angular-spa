@@ -1,0 +1,15 @@
+.menu{
+    background: transparent;
+    margin-bottom: 85px;
+}
+
+.nav-link{
+    color:#fff;
+    font-size: 18px;
+    margin:5px 25px;
+    
+}
+
+.navbar-brand{
+    margin-left:35px;
+}
